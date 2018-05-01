@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	color: #333333;
+	font-size: 14px;
+}
+
+#sec-rs{
+	background-color: #555;
+	color: #fff;
+	padding: 10px 0px;
+}
+
+#sec-rs .fab{
+	color: #fff;
+}
+
+#sec-rs .fab:hover{
+	color: #333333;
+}
+
+#sec-template{
+	background-image: url(../img/bg-hero.jpg);
+}
+
+#sec-template h2{
+	font-weight: 700;
+}
+
+#sec-template span{
+	color: #e96a57;
+}
+
+.cuadroservicios{
+	background-color: #F2F2F2;
+	border: solid 1px #E6E6E6;
+	text-align: center;
+	padding: 20px 10px;
+}
+
+.cuadroservicios h3{
+	font-weight: 700;
+}
+
+.cuadroservicios span{
+	color: #E96A57
+}
+
+.circulo{
+	border-radius: 100%;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.circulo.azul{
+	background-color: #37749D;
+}
+
+.circulo.verde{
+	background-color: #709A62;
+}
+
+.circulo.naranja{
+	background-color: #e96a57;
+}
+
+.circulo.amarillo{
+	background-color: #DABC3A;
+}
